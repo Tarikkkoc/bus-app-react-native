@@ -55,11 +55,19 @@ npx expo start
 <h3>Login</h3>
 <img src="./public/img/login.jpg"/> </br>
 <img src="./public/img/login1.jpg"/>
-<h3>Responsive</h3>
-<img src="./public/img/github/responsive-design.jpg"/>
-</br>
-<img src="./public/img/github/responsive2.jpg"/> </br>
-<img src="./public/img/github/responsive3.jpg"/>
+<h3>Register</h3>
+<img src="./public/img/register.jpg"/> </br>
+<img src="./public/img/register2.jpg"/>
+<h3>Home</h3>
+<img src="./public/img/home.jpg"/>
+<h3>Trip/Details</h3>
+<img src="./public/img/trip.jpg"/>
+<img src="./public/img/details.jpg"/>
+<img src="./public/img/details1.jpg"/>
+<h3>Payment/Success</h3>
+<img src="./public/img/payment.jpg"/>
+<img src="./public/img/success.jpg"/>
+
 
 
 
