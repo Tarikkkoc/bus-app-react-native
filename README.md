@@ -1,4 +1,4 @@
-<h2>BUSS APP</h2>
+<h2>BUS APP</h2>
 <p>
 My project is a bus ticket booking application. When the application is opened, a login screen appears and the user needs to sign in. If the user does not have an account, they can click on 'register' to create a user account and then log in. After logging in, the main page opens where the user can select their current city, destination city, and travel date.
 </p>
