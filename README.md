@@ -52,8 +52,9 @@ npx expo start
 5. Now run the app with android
 </p>
 
-<h3>Homepage</h3>
-<img src="./public/img/github/homepage.jpg"/>
+<h3>Login</h3>
+<img src="./public/img/login.jpg"/> </br>
+<img src="./public/img/login1.jpg"/>
 <h3>Responsive</h3>
 <img src="./public/img/github/responsive-design.jpg"/>
 </br>
