@@ -1,5 +1,3 @@
-// BusDetails.js
-
 import React, { useEffect, useState } from "react";
 import {
   View,
@@ -196,17 +194,17 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "space-between",
     alignItems: "center",
-    padding: 10, // İsterseniz padding ekleyebilirsiniz.
+    padding: 10,
   },
   payButton: {
-    backgroundColor: "#007AFF", // Mavi bir arkaplan rengi
+    backgroundColor: "#007AFF",
     paddingVertical: 10,
     paddingHorizontal: 20,
     borderRadius: 5,
   },
   payButtonText: {
-    color: "white", // Beyaz yazı rengi
-    fontSize: 16, // Yazı boyutu
+    color: "white",
+    fontSize: 16,
   },
 });
 

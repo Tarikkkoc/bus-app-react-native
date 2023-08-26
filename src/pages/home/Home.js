@@ -53,7 +53,7 @@ function Home({
       {isCalendarVisible && (
         <CalendarPicker
           onDateChange={(newDate) => {
-            setDate(newDate.toDate()); // CalendarPicker tarihleri Moment objesi olarak döndürdüğü için toDate() kullanılır.
+            setDate(newDate.toDate());
             setCalendarVisibility(false);
           }}
         />

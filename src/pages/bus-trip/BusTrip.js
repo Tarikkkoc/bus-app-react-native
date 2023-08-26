@@ -251,7 +251,6 @@ function BusTrip({ fromCity, toCity, date }) {
   const formattedDate = `${date.getDate()}/${
     date.getMonth() + 1
   }/${date.getFullYear()}`;
-  // Seçilen bilgilere göre seferleri filtrele
   const filteredSeferler = SEFERLER.filter(
     (sefer) =>
       sefer.from === fromCity &&
